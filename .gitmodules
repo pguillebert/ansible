@@ -12,5 +12,5 @@
 	branch = devel
 [submodule "lib/ansible/modules/core"]
 	path = lib/ansible/modules/core
-	url = https://github.com/pguillebert/ansible-modules-core
+	url = https://github.com/pguillebert/ansible-modules-core.git
 	branch = lkf-1
